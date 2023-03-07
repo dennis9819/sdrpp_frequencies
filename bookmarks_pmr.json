@@ -1,0 +1,84 @@
+{
+  "bookmarks": {
+    "PMR1": {
+      "bandwidth": 12500,
+      "frequency": 446006250,
+      "mode": 0
+    },
+    "PMR2": {
+      "bandwidth": 12500,
+      "frequency": 446018750,
+      "mode": 0
+    },
+    "PMR3": {
+      "bandwidth": 12500,
+      "frequency": 446031250,
+      "mode": 0
+    },
+    "PMR4": {
+      "bandwidth": 12500,
+      "frequency": 446043750,
+      "mode": 0
+    },
+    "PMR5": {
+      "bandwidth": 12500,
+      "frequency": 446056250,
+      "mode": 0
+    },
+    "PMR6": {
+      "bandwidth": 12500,
+      "frequency": 446068750,
+      "mode": 0
+    },
+    "PMR7": {
+      "bandwidth": 12500,
+      "frequency": 446081250,
+      "mode": 0
+    },
+    "PMR8": {
+      "bandwidth": 12500,
+      "frequency": 446093750,
+      "mode": 0
+    },
+    "PMR9": {
+      "bandwidth": 12500,
+      "frequency": 446106250,
+      "mode": 0
+    },
+    "PMR10": {
+      "bandwidth": 12500,
+      "frequency": 446118750,
+      "mode": 0
+    },
+    "PMR11": {
+      "bandwidth": 12500,
+      "frequency": 446131250,
+      "mode": 0
+    },
+    "PMR12": {
+      "bandwidth": 12500,
+      "frequency": 446143750,
+      "mode": 0
+    },
+    "PMR13": {
+      "bandwidth": 12500,
+      "frequency": 446156250,
+      "mode": 0
+    },
+    "PMR14": {
+      "bandwidth": 12500,
+      "frequency": 446168750,
+      "mode": 0
+    },
+    "PMR15": {
+      "bandwidth": 12500,
+      "frequency": 446181250,
+      "mode": 0
+    },
+    "PMR16": {
+      "bandwidth": 12500,
+      "frequency": 446193750,
+      "mode": 0
+    }
+  }
+}

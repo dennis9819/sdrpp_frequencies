@@ -1,0 +1,34 @@
+{
+  "bookmarks": {
+    "FN1": {
+      "bandwidth": 12500,
+      "frequency": 149025000,
+      "mode": 0
+    },
+    "FN2": {
+      "bandwidth": 12500,
+      "frequency": 149037500,
+      "mode": 0
+    },
+    "FN3": {
+      "bandwidth": 12500,
+      "frequency": 149050000,
+      "mode": 0
+    },
+    "FN4": {
+      "bandwidth": 12500,
+      "frequency": 149087500,
+      "mode": 0
+    },
+    "FN5": {
+      "bandwidth": 12500,
+      "frequency": 149100000,
+      "mode": 0
+    },
+    "FN6": {
+      "bandwidth": 12500,
+      "frequency": 149112500,
+      "mode": 0
+    }
+  }
+}
